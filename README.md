@@ -33,7 +33,7 @@
 
 ### 📈 GitHub Stats
 
-![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaXDev&show_icons=true&theme=tokyonight)
+![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAlphaDarkDev&show_icons=true&theme=tokyonight)
 
 ---
 
