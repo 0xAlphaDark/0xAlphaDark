@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Researcher | CTF Player 🚩 | C++ & Python Developer | Mathematician</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=Building+AI+Assistants+with+C%2B%2B%2FPython;Conquering+CTFs+and+Exploiting+Vulnerabilities;Living+on+Fedora+Linux+like+a+Pro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+AI+Assistants+with+C%2B%2B%2FPython;Conquering+CTFs+and+Exploiting+Vulnerabilities;Living+on+Fedora+Linux+like+a+Pro" alt="Typing SVG" />
 </div>
 
 ---
@@ -70,12 +70,12 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaXDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlphaXDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaXDev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlphaXDev&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
