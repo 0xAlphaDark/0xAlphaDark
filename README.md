@@ -1,9 +1,9 @@
 <h1 align="center">👾 Welcome, I’m Alpha</h1>
 <h3 align="center">Cybersecurity Researcher | CTF Player 🚩 | C++ & Python Developer | Mathematician</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=Building+AI+Assistants+with+C%2B%2B%2FPython;Conquering+CTFs+and+Exploiting+Vulnerabilities;Living+on+Fedora+Linux+like+a+Pro" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
