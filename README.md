@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Researcher | CTF Player 🚩 | C++ & Python Developer | Mathematician</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Engineering+AI+Assistants+with+C%2B%2B+%26+Python;Breaking+CTFs+%7C+Offensive+Security+Research;Fedora+Linux+—+Optimized+for+Power+Users;Automating+Everything+with+Shell%2C+Python%2C+and+Vim;I+use+Arch+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Engineering+AI+Assistants+with+C%2B%2B+%26amp%3B+Python;Breaking+CTFs+-+Offensive+Security+Research;Fedora+Linux+-+Power+User+Workflow;Automating+Everything+with+Shell%2C+Python%2C+and+Vim;I+use+Arch+btw" alt="Typing SVG" />
 </div>
 
 
