@@ -55,7 +55,12 @@
 #### 🛡️ OS & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-1793D1?style=for-the-badge&logo=gnome&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00B4D8?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Sway](https://img.shields.io/badge/Sway-6A8CAF?style=for-the-badge&logo=wayland&logoColor=white)
+
 
 ### 📦 Workflow & Daily Tools
 
@@ -65,6 +70,7 @@
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnubash&logoColor=black)
 ![EasyEffects](https://img.shields.io/badge/EasyEffects-3E76BB?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
