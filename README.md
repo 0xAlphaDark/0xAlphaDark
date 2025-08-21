@@ -58,8 +58,13 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAlphaDark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&loc>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xAlphaDark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="lan>
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xAlphaDark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+       height="150" alt="Youssef's GitHub Stats" />
+
+  <!-- Top languages graph -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xAlphaDark&layout=compact&theme=tokyonight" 
+       height="150" alt="Top Languages" />
 </div>
 
 
