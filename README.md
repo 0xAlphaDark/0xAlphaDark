@@ -5,18 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+AI+Assistants+with+C%2B%2B+and+Python;Breaking+CTFs+-+Offensive+Security+Research;Fedora+Linux+-+Power+User+Workflow;Automating+Everything+with+Shell%2C+Python+and+Vim;I+use+Arch+btw" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAlphaDark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xAlphaDark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 <div align="center">
   <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xAlphaDark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xAlphaDark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false"
        height="150" alt="Youssef's GitHub Stats" />
 
   <!-- Top languages graph -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xAlphaDark&layout=compact&theme=tokyonight" 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xAlphaDark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&tokyonight&hide_border=false"
        height="150" alt="Top Languages" />
 </div>
 
