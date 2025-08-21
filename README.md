@@ -9,7 +9,7 @@
   <!-- GitHub overall stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xAlphaDark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
        height="150" alt="Youssef's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xAlphaDark&card_width=320&layout=compact&theme=tokyonight" 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xAlphaDark&card_width=320&langs_count=5&layout=compact&theme=tokyonight" 
        height="150" alt="Top Languages" />
 </div>
 
