@@ -65,5 +65,11 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/snake.svg" />
+</picture>
+
+---
 
 > 🧠 _"Hack deep, learn constantly, automate everything."_  
