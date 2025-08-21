@@ -5,7 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+AI+Assistants+with+C%2B%2B+and+Python;Breaking+CTFs+-+Offensive+Security+Research;Fedora+Linux+-+Power+User+Workflow;Automating+Everything+with+Shell%2C+Python+and+Vim;I+use+Arch+btw" alt="Typing SVG" />
 </div>
 
-
+<div align="center">
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xAlphaDark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+       height="150" alt="Youssef's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xAlphaDark&card_width=320&layout=compact&theme=tokyonight" 
+       height="150" alt="Top Languages" />
+</div>
 
 ---
 
@@ -51,20 +57,6 @@
 ![Zsh](https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnubash&logoColor=black)
 ![EasyEffects](https://img.shields.io/badge/EasyEffects-3E76BB?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xAlphaDark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-       height="150" alt="Youssef's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xAlphaDark&layout=compact&theme=tokyonight" 
-       height="150" alt="Top Languages" />
-</div>
-
 
 
 
