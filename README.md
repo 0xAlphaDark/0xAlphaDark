@@ -56,12 +56,10 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlphaXDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <br />
-
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefKhafaja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlphaXDev&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
