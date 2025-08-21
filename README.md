@@ -57,9 +57,15 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefKhafaja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlphaXDev&layout=compact&theme=tokyonight" />
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefKhafaja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+       alt="Youssef's GitHub Stats" />
+
+  <!-- Top languages graph -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefKhafaja&layout=compact&theme=tokyonight" 
+       alt="Top Languages" />
 </div>
+
 
 ---
 
