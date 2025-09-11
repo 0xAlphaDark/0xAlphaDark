@@ -1,10 +1,12 @@
 <h1 align="center">👾 Welcome, I’m Youssef Khafaja</h1>
 
-<h3 align="center">Junior Penetration Tester | Mathematician | C++ & Python Developer</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+AI+Assistants+with+C%2B%2B+and+Python;Breaking+CTFs+-+Offensive+Security+Research;Fedora+Linux+-+Power+User+Workflow;Automating+Everything+with+Shell%2C+Python+and+Vim;I+use+Arch+btw" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&repeat=true&width=750&lines=Developing+AI+Assistants+with+C%2B%2B+%26+Python;Advancing+Offensive+Security+through+CTFs;Optimizing+Productivity+with+Fedora+Linux;Automating+Workflows+using+Shell%2C+Python+%26+N8N;Applying+Mathematics+to+Cryptography+%26+Cybersecurity;BTW%2C+I+Use+Arch+Linux" 
+    alt="Typing SVG" 
+  />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xAlphaDark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
