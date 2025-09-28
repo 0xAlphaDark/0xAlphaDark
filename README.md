@@ -15,13 +15,6 @@
 
 ---
 
-### 🔭 Currently Working On
-
-- 🤖 **Personal AI Assistant** (local, offline, modular)
-- 🌐 **Full-stack Django App** with REST APIs & secure authentication
-
----
-
 ### 🛠️ Languages, Tools & Technologies
 
 #### 🚀 Languages
