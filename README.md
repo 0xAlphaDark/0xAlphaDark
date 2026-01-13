@@ -3,13 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=0xAlphaDark&fontSize=70&fontAlign=50&fontAlignY=35&desc=Mathematician%20%7C%20Cybersecurity%20Researcher&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=00f0ff" alt="0xAlphaDark Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&repeat=true&width=750&lines=Developing+Secure+Systems+with+C%2B%2B+%26+Python;Advancing+Offensive+Security+through+CTFs;Crafting+Chaos+Encryption+Algorithms;Automating+Workflows+on+Fedora+%26+Arch;Hack+Deep...+Learn+Constantly." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&repeat=true&width=800&lines=Developing+Secure+Systems+with+C%2B%2B+%26+Python;Advancing+Offensive+Security+through+CTFs;Crafting+Chaos+Encryption+Algorithms;Automating+Workflows+on+Fedora+%26+Arch;Hack+Deep...+Learn+Constantly." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xAlphaDark&show_icons=true&count_private=true&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&bg_color=0d1117" height="160" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xAlphaDark&layout=compact&card_width=320&langs_count=6&hide_border=true&title_color=00f0ff&text_color=c9d1d9&bg_color=0d1117" height="160" alt="languages graph" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAlphaDark&show_icons=true&count_private=true&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&bg_color=0d1117" height="160" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xAlphaDark&layout=compact&card_width=320&langs_count=6&hide_border=true&title_color=00f0ff&text_color=c9d1d9&bg_color=0d1117" height="160" />
+</a>
 
 </div>
 
