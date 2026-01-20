@@ -48,17 +48,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://youssefkhafaja.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0d1117?style=for-the-badge&logo=firefox&logoColor=00f0ff" />
-  </a>
-  <a href="mailto:youssefm.khafaja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00f0ff" />
-  </a>
-  <a href="https://linkedin.com/in/YoussefKhafaja">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff" />
-  </a>
-</div>
 
 <br/>
 
@@ -74,8 +63,3 @@
 
 <br/>
 
-<div align="center">
-  <p style="font-family: monospace; color: #238636; font-size: 12px;">
-    <code>gpg --fingerprint 0xAlphaDark</code>
-  </p>
-</div>
