@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Portfolio-06080A?style=for-the-badge&logo=webauthn&logoColor=00d4aa&borderColor=00d4aa" alt="Portfolio"/>
 </a>
 
-<a href="[LINKEDIN_PROFILE_URL]">
+<a href="https://www.linkedin.com/in/youssefkhafaja/">
   <img src="https://img.shields.io/badge/LinkedIn-06080A?style=for-the-badge&logo=logmein&logoColor=00d4aa&borderColor=00d4aa&v=2" alt="LinkedIn"/>
 </a>
 
