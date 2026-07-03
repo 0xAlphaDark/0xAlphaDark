@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-06080A?style=for-the-badge&logo=logmein&logoColor=00d4aa&borderColor=00d4aa&v=2" alt="LinkedIn"/>
 </a>
 
-<a href="[HACKTHEBOX_PROFILE_URL]">
+<a href="https://profile.hackthebox.com/profile/019db169-5054-73ec-b8d4-26dd4ed2a04e">
   <img src="https://img.shields.io/badge/HackTheBox-06080A?style=for-the-badge&logo=hackthebox&logoColor=00d4aa&borderColor=00d4aa" alt="HTB"/>
 </a>
 
